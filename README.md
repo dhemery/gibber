@@ -1,1 +1,2 @@
-# panelgen
+# Gibber
+Automated gibberish.

@@ -1,3 +1,3 @@
 module dhemery.com/gibber
 
-go 1.18
+go 1.20
